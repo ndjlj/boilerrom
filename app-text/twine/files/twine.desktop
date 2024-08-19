@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Twine
+GenericName=Interactive Stories Editor
+Comment=Twine is an open-source tool for telling interactive, nonlinear stories.
+TryExec=twine
+Exec=twine
+Terminal=false
+Type=Application
+Keywords=Text;editor;interactive;story;fiction
+Icon=twine
+Categories=Development;Utility;
+StartupNotify=false
